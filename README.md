@@ -4,7 +4,7 @@
 github上开源的又全是python，没有gui的工具，是没有灵魂的！
 
 ### 程序截图
-[![运行](runtime.png)]
+![运行](runtime.png)
 
 
 
