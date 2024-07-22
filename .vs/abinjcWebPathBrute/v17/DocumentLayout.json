@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cppProject\\abinjcWebPathBrute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1ABBA1-2BE0-442C-B7B9-170572A05592}|abinjcWebPathBrute.csproj|d:\\cppproject\\abinjcwebpathbrute\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA1ABBA1-2BE0-442C-B7B9-170572A05592}|abinjcWebPathBrute.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1ABBA1-2BE0-442C-B7B9-170572A05592}|abinjcWebPathBrute.csproj|d:\\cppproject\\abinjcwebpathbrute\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1ABBA1-2BE0-442C-B7B9-170572A05592}|abinjcWebPathBrute.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1ABBA1-2BE0-442C-B7B9-170572A05592}|abinjcWebPathBrute.csproj|d:\\cppproject\\abinjcwebpathbrute\\threadpoolcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1ABBA1-2BE0-442C-B7B9-170572A05592}|abinjcWebPathBrute.csproj|solutionrelative:threadpoolcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1ABBA1-2BE0-442C-B7B9-170572A05592}|abinjcWebPathBrute.csproj|d:\\cppproject\\abinjcwebpathbrute\\formstatesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1ABBA1-2BE0-442C-B7B9-170572A05592}|abinjcWebPathBrute.csproj|solutionrelative:formstatesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadPoolControl.cs",
+              "DocumentMoniker": "D:\\cppProject\\abinjcWebPathBrute\\ThreadPoolControl.cs",
+              "RelativeDocumentMoniker": "ThreadPoolControl.cs",
+              "ToolTip": "D:\\cppProject\\abinjcWebPathBrute\\ThreadPoolControl.cs",
+              "RelativeToolTip": "ThreadPoolControl.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAiwMMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:01:10.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormStateSaver.cs",
+              "DocumentMoniker": "D:\\cppProject\\abinjcWebPathBrute\\FormStateSaver.cs",
+              "RelativeDocumentMoniker": "FormStateSaver.cs",
+              "ToolTip": "D:\\cppProject\\abinjcWebPathBrute\\FormStateSaver.cs",
+              "RelativeToolTip": "FormStateSaver.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:09:11.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\cppProject\\abinjcWebPathBrute\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\cppProject\\abinjcWebPathBrute\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAJABAAAAAAAAAAAowKYBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:20:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\cppProject\\abinjcWebPathBrute\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\cppProject\\abinjcWebPathBrute\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:54:43.13Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

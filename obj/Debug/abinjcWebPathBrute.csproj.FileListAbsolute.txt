@@ -1,0 +1,13 @@
+D:\cppProject\abinjcWebPathBrute\bin\Debug\abinjcWebPathBrute.exe.config
+D:\cppProject\abinjcWebPathBrute\bin\Debug\abinjcWebPathBrute.exe
+D:\cppProject\abinjcWebPathBrute\bin\Debug\abinjcWebPathBrute.pdb
+D:\cppProject\abinjcWebPathBrute\obj\Debug\abinjcWebPathBrute.csproj.AssemblyReference.cache
+D:\cppProject\abinjcWebPathBrute\obj\Debug\abinjcWebPathBrute.Form1.resources
+D:\cppProject\abinjcWebPathBrute\obj\Debug\abinjcWebPathBrute.Properties.Resources.resources
+D:\cppProject\abinjcWebPathBrute\obj\Debug\abinjcWebPathBrute.csproj.GenerateResource.cache
+D:\cppProject\abinjcWebPathBrute\obj\Debug\abinjcWebPathBrute.csproj.CoreCompileInputs.cache
+D:\cppProject\abinjcWebPathBrute\obj\Debug\abinjcWebPathBrute.exe
+D:\cppProject\abinjcWebPathBrute\obj\Debug\abinjcWebPathBrute.pdb
+D:\cppProject\abinjcWebPathBrute\bin\Debug\System.ValueTuple.dll
+D:\cppProject\abinjcWebPathBrute\bin\Debug\System.ValueTuple.xml
+D:\cppProject\abinjcWebPathBrute\obj\Debug\abinjcWe.5B3F5E7F.Up2Date
