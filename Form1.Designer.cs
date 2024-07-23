@@ -425,6 +425,7 @@
       this.listViewResult.TabIndex = 0;
       this.listViewResult.UseCompatibleStateImageBehavior = false;
       this.listViewResult.View = System.Windows.Forms.View.Details;
+      this.listViewResult.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listViewResult_MouseDoubleClick);
       // 
       // columnDir
       // 

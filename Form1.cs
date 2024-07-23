@@ -453,7 +453,23 @@ namespace abinjcWebPathBrute
       listViewDic.Items.Clear();
     }
 
-    private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+    private void listViewResult_MouseDoubleClick(object sender, MouseEventArgs e)
+    {
+      ListView listview = (ListView)sender;
+      ListViewItem lstrow = listview.GetItemAt(e.X, e.Y);
+      System.Windows.Forms.ListViewItem.ListViewSubItem lstcol = lstrow.GetSubItemAt(e.X, e.Y);
+      string strText = lstcol.Text;
+      try
+      {
+        Clipboard.SetDataObject(strText);
+      }
+      catch (System.Exception ex)
+      {
+        MessageBox.Show(ex.Message, "提示", MessageBoxButtons.OK, MessageBoxIcon.Error);
+      }
+    }
+
+      private void Form1_FormClosing(object sender, FormClosingEventArgs e)
     {
       FormStateSaver.SaveFormState(this);
       try
