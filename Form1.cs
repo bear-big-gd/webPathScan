@@ -243,7 +243,7 @@ namespace abinjcWebPathBrute
     {
       foreach (string keyword in excludeMsgs)
       {
-        if (content.IndexOf(keyword, StringComparison.OrdinalIgnoreCase) != -1)
+        if (content.IndexOf(keyword, StringComparison.OrdinalIgnoreCase) != -1 && keyword != "")
         {
           return true;
         }
@@ -469,7 +469,7 @@ namespace abinjcWebPathBrute
       }
     }
 
-      private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+    private void Form1_FormClosing(object sender, FormClosingEventArgs e)
     {
       FormStateSaver.SaveFormState(this);
       try
