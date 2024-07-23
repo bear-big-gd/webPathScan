@@ -102,6 +102,7 @@ namespace abinjcWebPathBrute
     public Form1()
     {
       InitializeComponent();
+      ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
       SetStyle(ControlStyles.OptimizedDoubleBuffer |
                ControlStyles.AllPaintingInWmPaint |
                ControlStyles.UserPaint, true);
