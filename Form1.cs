@@ -46,14 +46,17 @@ namespace abinjcWebPathBrute
       // 更新状态标签
       if (!string.IsNullOrEmpty(latestStatus))
       {
-        toolStripStatusLabelNowScanPath.Text = latestStatus;
-        // 更新结果计数
-        Interlocked.Read(ref processedItemsCount);
-        labelResultCount.Text = $"{processedItemsCount}/{dics.Count}";
-        groupBoxResult.Text = $"结果 数量({listViewResult.Items.Count})：";
-        int percentage = (int)((double)processedItemsCount / dics.Count * 100);
-        percentage = Math.Min(100, Math.Max(0, percentage));
-        progressBarResult.Value = percentage;
+        if (toolStripStatusLabelNowScanPath.Text != latestStatus)
+        {
+          toolStripStatusLabelNowScanPath.Text = latestStatus;
+          // 更新结果计数
+          Interlocked.Read(ref processedItemsCount);
+          labelResultCount.Text = $"{processedItemsCount}/{dics.Count}";
+          groupBoxResult.Text = $"结果 数量({listViewResult.Items.Count})：";
+          int percentage = (int)((double)processedItemsCount / dics.Count * 100);
+          percentage = Math.Min(100, Math.Max(0, percentage));
+          progressBarResult.Value = percentage;
+        }
       }
 
       // 更新ListView

@@ -45,28 +45,28 @@
         </ControlState>
         <ControlState>
           <Name>textBoxExcludeRetMsg</Name>
-          <Value>认证失败|错误</Value>
+          <Value>你访问的页面不存在</Value>
         </ControlState>
         <ControlState>
           <Name>label8</Name>
         </ControlState>
         <ControlState>
           <Name>textBoxRetStatusCode</Name>
-          <Value>200|3xx|401|403|405|406|5xx</Value>
+          <Value>200|3xx|401|403|406|5xx</Value>
         </ControlState>
         <ControlState>
           <Name>label7</Name>
         </ControlState>
         <ControlState>
           <Name>textBoxProxyUrl</Name>
-          <Value>127.0.0.1:7890</Value>
+          <Value />
         </ControlState>
         <ControlState>
           <Name>label6</Name>
         </ControlState>
         <ControlState>
           <Name>textBoxTarget</Name>
-          <Value>https://subs.recruiter.co.uk{路径}</Value>
+          <Value>http://hbd.yto.net.cn{路径}</Value>
         </ControlState>
         <ControlState>
           <Name>label5</Name>
@@ -76,7 +76,7 @@
         </ControlState>
         <ControlState>
           <Name>textBoxDelay</Name>
-          <Value>0</Value>
+          <Value>200</Value>
         </ControlState>
         <ControlState>
           <Name>label4</Name>
@@ -114,7 +114,7 @@
         </ControlState>
         <ControlState>
           <Name>textBoxScanThreadNum</Name>
-          <Value>10</Value>
+          <Value>1</Value>
         </ControlState>
         <ControlState>
           <Name>label1</Name>

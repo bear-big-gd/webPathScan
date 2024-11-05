@@ -59,14 +59,14 @@
         </ControlState>
         <ControlState>
           <Name>textBoxProxyUrl</Name>
-          <Value>http://127.0.0.1:3000</Value>
+          <Value>127.0.0.1:7890</Value>
         </ControlState>
         <ControlState>
           <Name>label6</Name>
         </ControlState>
         <ControlState>
           <Name>textBoxTarget</Name>
-          <Value>https://xxx.com/{路径}</Value>
+          <Value>https://749b3026.fiacvs039c.to{路径}</Value>
         </ControlState>
         <ControlState>
           <Name>label5</Name>
